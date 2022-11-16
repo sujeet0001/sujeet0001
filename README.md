@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sujeet
-- 👀 I’m interested in programming and solving problems
-- 🌱 I’m currently learning Kotlin and Node.js
+- 👀 I’m interested in art and science
+- 🌱 I’m currently learning Kotlin and Golang
 - 📫 You can reach me at sujeet001@yahoo.com
 
 <!---
